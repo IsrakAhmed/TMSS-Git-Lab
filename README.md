@@ -20,12 +20,12 @@ $f_1(&omega;) = {&sigma;^2 \over 2&pi;},&omega;&in;[-&pi;,&pi;]$
     
 4. Fourth Item
 
-    * First Item
+* First Item
 
-    * Second Item
+* Second Item
 
-        * first sub-item
+    * first sub-item
 
-            * first sub-sub item
+        * first sub-sub item
 
-        * second sub-item
+    * second sub-item
